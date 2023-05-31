@@ -21,17 +21,5 @@ Fully responsive
 ![Screenshot_20230530_113646](https://github.com/NurlanAskerov/FurnitureWebsite/assets/124917278/9c094ffa-17e5-47a8-ada4-d7ecb23124d7)
 ![Screenshot_20230530_113702](https://github.com/NurlanAskerov/FurnitureWebsite/assets/124917278/46886537-d0d4-4d0c-9c8f-ce87eab018d1)
 ![Screenshot_20230530_113722](https://github.com/NurlanAskerov/FurnitureWebsite/assets/124917278/fc533a6b-3fb0-43d7-af63-becfa4d2ceba)
-1. Use the following command to download this project to your computer:
 
-   ```bash
-   git clone https://github.com/NurlanAskerov/FurnitureWebsite.git
-2.Navigate to the project directory:  
-  
-    cd FurnitureWebsite
-    
-3.Install the required dependencies by running the following command:
-       
-    npm install
-4.To run the project, use the following command:
-                     
-    npm start
+
